@@ -1,0 +1,1 @@
+This repository includes an overview of all the new features of that have been added to c# from 2010. I have only coded the things that are not further explained in the book later for example expression body or 'using static'.
