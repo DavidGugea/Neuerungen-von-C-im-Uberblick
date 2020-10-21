@@ -1,0 +1,12 @@
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\bin\Debug\netcoreapp3.1\UsingStaticExample.exe
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\bin\Debug\netcoreapp3.1\UsingStaticExample.deps.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\bin\Debug\netcoreapp3.1\UsingStaticExample.runtimeconfig.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\bin\Debug\netcoreapp3.1\UsingStaticExample.runtimeconfig.dev.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\bin\Debug\netcoreapp3.1\UsingStaticExample.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\bin\Debug\netcoreapp3.1\UsingStaticExample.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\obj\Debug\netcoreapp3.1\UsingStaticExample.AssemblyInfoInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\obj\Debug\netcoreapp3.1\UsingStaticExample.AssemblyInfo.cs
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\obj\Debug\netcoreapp3.1\UsingStaticExample.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\obj\Debug\netcoreapp3.1\UsingStaticExample.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\obj\Debug\netcoreapp3.1\UsingStaticExample.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\UsingStatic\UsingStaticExample\obj\Debug\netcoreapp3.1\UsingStaticExample.genruntimeconfig.cache
