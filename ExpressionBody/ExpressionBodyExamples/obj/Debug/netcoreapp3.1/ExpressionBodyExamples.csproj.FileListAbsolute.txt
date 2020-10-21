@@ -1,0 +1,13 @@
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\bin\Debug\netcoreapp3.1\ExpressionBodyExamples.exe
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\bin\Debug\netcoreapp3.1\ExpressionBodyExamples.deps.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\bin\Debug\netcoreapp3.1\ExpressionBodyExamples.runtimeconfig.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\bin\Debug\netcoreapp3.1\ExpressionBodyExamples.runtimeconfig.dev.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\bin\Debug\netcoreapp3.1\ExpressionBodyExamples.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\bin\Debug\netcoreapp3.1\ExpressionBodyExamples.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\obj\Debug\netcoreapp3.1\ExpressionBodyExamples.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\obj\Debug\netcoreapp3.1\ExpressionBodyExamples.AssemblyInfoInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\obj\Debug\netcoreapp3.1\ExpressionBodyExamples.AssemblyInfo.cs
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\obj\Debug\netcoreapp3.1\ExpressionBodyExamples.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\obj\Debug\netcoreapp3.1\ExpressionBodyExamples.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\obj\Debug\netcoreapp3.1\ExpressionBodyExamples.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\ExpressionBodyExamples\obj\Debug\netcoreapp3.1\ExpressionBodyExamples.genruntimeconfig.cache
