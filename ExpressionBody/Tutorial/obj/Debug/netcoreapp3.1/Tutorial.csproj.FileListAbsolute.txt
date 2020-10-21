@@ -1,0 +1,13 @@
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.exe
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.deps.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.runtimeconfig.dev.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\bin\Debug\netcoreapp3.1\Tutorial.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfoInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.AssemblyInfo.cs
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\ExpressionBody\Tutorial\obj\Debug\netcoreapp3.1\Tutorial.genruntimeconfig.cache
