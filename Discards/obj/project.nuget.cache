@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "naQRYo4USCfihuZBUyk25JRI295O83w7+/3JWoJproVj+ppFZ+HoqsWjn34viAeUUB2aMvnrC6hB1XN/jBCu8A==",
+  "success": true,
+  "projectFilePath": "G:\\David\\PROGRAMMING\\CSC\\Neuerungen von C# im Überblick\\Discards\\Discards.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\david\\.nuget\\packages\\system.valuetuple\\4.5.0\\system.valuetuple.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

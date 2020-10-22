@@ -1,0 +1,13 @@
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\bin\Debug\netcoreapp3.1\Discards.exe
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\obj\Debug\netcoreapp3.1\Discards.AssemblyInfoInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\obj\Debug\netcoreapp3.1\Discards.AssemblyInfo.cs
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\bin\Debug\netcoreapp3.1\Discards.deps.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\bin\Debug\netcoreapp3.1\Discards.runtimeconfig.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\bin\Debug\netcoreapp3.1\Discards.runtimeconfig.dev.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\bin\Debug\netcoreapp3.1\Discards.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\bin\Debug\netcoreapp3.1\Discards.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\obj\Debug\netcoreapp3.1\Discards.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\obj\Debug\netcoreapp3.1\Discards.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\obj\Debug\netcoreapp3.1\Discards.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\obj\Debug\netcoreapp3.1\Discards.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Discards\obj\Debug\netcoreapp3.1\Discards.genruntimeconfig.cache
