@@ -1,0 +1,12 @@
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\bin\Debug\netcoreapp3.1\TupelExample.exe
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\obj\Debug\netcoreapp3.1\TupelExample.AssemblyInfoInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\obj\Debug\netcoreapp3.1\TupelExample.AssemblyInfo.cs
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\bin\Debug\netcoreapp3.1\TupelExample.deps.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\bin\Debug\netcoreapp3.1\TupelExample.runtimeconfig.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\bin\Debug\netcoreapp3.1\TupelExample.runtimeconfig.dev.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\bin\Debug\netcoreapp3.1\TupelExample.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\bin\Debug\netcoreapp3.1\TupelExample.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\obj\Debug\netcoreapp3.1\TupelExample.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\obj\Debug\netcoreapp3.1\TupelExample.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\obj\Debug\netcoreapp3.1\TupelExample.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\Tupel\TupelExample\obj\Debug\netcoreapp3.1\TupelExample.genruntimeconfig.cache
