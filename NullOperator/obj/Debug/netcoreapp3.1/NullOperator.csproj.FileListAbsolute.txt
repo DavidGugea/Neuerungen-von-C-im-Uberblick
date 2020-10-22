@@ -1,0 +1,13 @@
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\bin\Debug\netcoreapp3.1\NullOperator.exe
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\bin\Debug\netcoreapp3.1\NullOperator.deps.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\bin\Debug\netcoreapp3.1\NullOperator.runtimeconfig.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\bin\Debug\netcoreapp3.1\NullOperator.runtimeconfig.dev.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\bin\Debug\netcoreapp3.1\NullOperator.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\bin\Debug\netcoreapp3.1\NullOperator.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\obj\Debug\netcoreapp3.1\NullOperator.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\obj\Debug\netcoreapp3.1\NullOperator.AssemblyInfoInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\obj\Debug\netcoreapp3.1\NullOperator.AssemblyInfo.cs
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\obj\Debug\netcoreapp3.1\NullOperator.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\obj\Debug\netcoreapp3.1\NullOperator.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\obj\Debug\netcoreapp3.1\NullOperator.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\NullOperator\obj\Debug\netcoreapp3.1\NullOperator.genruntimeconfig.cache
