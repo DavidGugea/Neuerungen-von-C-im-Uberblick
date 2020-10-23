@@ -1,0 +1,13 @@
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\bin\Debug\netcoreapp3.1\InRefExample.exe
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\bin\Debug\netcoreapp3.1\InRefExample.deps.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\bin\Debug\netcoreapp3.1\InRefExample.runtimeconfig.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\bin\Debug\netcoreapp3.1\InRefExample.runtimeconfig.dev.json
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\bin\Debug\netcoreapp3.1\InRefExample.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\bin\Debug\netcoreapp3.1\InRefExample.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\obj\Debug\netcoreapp3.1\InRefExample.csprojAssemblyReference.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\obj\Debug\netcoreapp3.1\InRefExample.AssemblyInfoInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\obj\Debug\netcoreapp3.1\InRefExample.AssemblyInfo.cs
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\obj\Debug\netcoreapp3.1\InRefExample.csproj.CoreCompileInputs.cache
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\obj\Debug\netcoreapp3.1\InRefExample.dll
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\obj\Debug\netcoreapp3.1\InRefExample.pdb
+G:\David\PROGRAMMING\CSC\Neuerungen von C# im Überblick\InRefExample\obj\Debug\netcoreapp3.1\InRefExample.genruntimeconfig.cache
